@@ -22,7 +22,7 @@ const CartItem = (props) => {
           <img
             alt="increase"
             className="action-icons"
-            src="https://cdn-icons.flaticon.com/png/512/3303/premium/3303893.png?token=exp=1644583647~hmac=fa6cc180d21210bad3674738891688d2"
+            src="https://cdn-icons-png.flaticon.com/512/992/992651.png"
             onClick={() => onIncreaseQuantity(product)}
           />
           <img
